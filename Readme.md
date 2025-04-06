@@ -39,22 +39,18 @@ Clone o repositório para a sua máquina local:
 ```bash
 git clone https://github.com/thiagocorreab77/PI-Desenvolvimento-Desktop.git
 ```
-Como Usar:
+## Como Usar:
+
 Executando o Projeto
-Para rodar o projeto, basta executar a classe principal do projeto.
-Se você estiver usando o VSCode, pode executar diretamente pelo editor.
+Para rodar o projeto, basta executar a classe principal do projeto . Se você estiver usando o VSCode, pode executar diretamente pelo editor.
 
 Para compilar e executar no VSCode:
-Abra o arquivo da classe principal (geralmente chamado Main.java).
 
-Clique no ícone "Run" (botão de "play") no canto superior direito do VSCode.
+Abra o arquivo
+
+Clique no ícone Run (ícone de "play") no canto superior direito do VSCode.
 
 O código será compilado e executado no terminal integrado do VSCode.
-
-Observações:
-Certifique-se de que o Java está instalado e configurado corretamente no VSCode.
-
-Caso esteja usando uma estrutura de pastas, a classe principal deve conter o método public static void main(String[] args).
 
 ## Estrutura do projeto:
 
