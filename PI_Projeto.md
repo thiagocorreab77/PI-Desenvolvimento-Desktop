@@ -2,12 +2,12 @@ Com base nas informações coletadas, procuramos entender qual melhor forma para
 
 Curiosidade: Junção no Git com a versão principal "main" com a ramificação branch atualizada de "partTHI"
 
-thiag@LAPTOP-HSOA4FP5 MINGW64 /c/VIDA/ESTUDOS/ADS - UNIFEOB/2A- Programação Orientada a Objetos/PI-Desenvolvimento-Desktop-main (partTHI)
+******- Programação Orientada a Objetos/PI-Desenvolvimento-Desktop-main (partTHI)
 $ git checkout main
 Switched to branch 'main'
 Your branch is up to date with 'origin/main'.
 
-thiag@LAPTOP-HSOA4FP5 MINGW64 /c/VIDA/ESTUDOS/ADS - UNIFEOB/2A- Programação Orientada a Objetos/PI-Desenvolvimento-Desktop-main (main)
+******- Programação Orientada a Objetos/PI-Desenvolvimento-Desktop-main (main)
 $ git merge partTHI
 Updating e50390f..19d74bd
 Fast-forward
@@ -22,7 +22,7 @@ Fast-forward
  src/Manutencao.java   |  16 ++++++----
  9 files changed, 128 insertions(+), 40 deletions(-)
 
-thiag@LAPTOP-HSOA4FP5 MINGW64 /c/VIDA/ESTUDOS/ADS - UNIFEOB/2A- Programação Orientada a Objetos/PI-Desenvolvimento-Desktop-main (main)
+******- Programação Orientada a Objetos/PI-Desenvolvimento-Desktop-main (main)
 $ git push origin main
 Enumerating objects: 6, done.
 Counting objects: 100% (6/6), done.
@@ -34,12 +34,10 @@ remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
 To https://github.com/thiagocorreab77/PI-Desenvolvimento-Desktop.git
    e50390f..19d74bd  main -> main
 
-thiag@LAPTOP-HSOA4FP5 MINGW64 /c/VIDA/ESTUDOS/ADS - UNIFEOB/2A- Programação Orientada a Objetos/PI-Desenvolvimento-Desktop-main (main)
+****** Programação Orientada a Objetos/PI-Desenvolvimento-Desktop-main (main)
 $ git status
 On branch main
 Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
 
-thiag@LAPTOP-HSOA4FP5 MINGW64 /c/VIDA/ESTUDOS/ADS - UNIFEOB/2A- Programação Orientada a Objetos/PI-Desenvolvimento-Desktop-main (main)
-$
