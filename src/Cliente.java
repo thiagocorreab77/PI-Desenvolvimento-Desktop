@@ -1,12 +1,11 @@
-
 public class Cliente {
     private String nome;
-    private String endereco;
+    private String cnpj;
     private String telefone;
 
-    public Cliente(String nome, String endereco, String telefone) {
+    public Cliente(String nome, String cnpj, String telefone) {
         this.nome = nome;
-        this.endereco = endereco;
+        this.cnpj = cnpj;
         this.telefone = telefone;
     }
 
@@ -14,16 +13,11 @@ public class Cliente {
         return nome;
     }
 
-    public String getEndereco() {
-        return endereco;
+    public String getCnpj() {
+        return cnpj;
     }
 
     public String getTelefone() {
         return telefone;
-    }
-
-    @Override
-    public String toString() {
-        return "Cliente: " + nome + ", Endereço: " + endereco + ", Telefone: " + telefone;
     }
 }
