@@ -20,7 +20,6 @@ O projeto Fábio Ildefonso busca facilitar e organizar dados por meio da constru
 - Anna Beatriz de Carvalho Rosa RA 24002072
 - Eduarda Celina Ezequiel Maltempe RA 24001738
 - Gabriel Fernando Verri RA 1012023200170
-- David Glaycon de Carvalho Jacon RA: 1012023200267
 
 ## Pré-Requisitos:
 
