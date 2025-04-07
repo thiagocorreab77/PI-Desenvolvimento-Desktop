@@ -1,5 +1,3 @@
-Com base nas informações coletadas, procuramos entender qual melhor forma para organizar e gerenciar as ordens de serviço de manutenção de forma eficiente e também como organizar a parte de custos, especialmente quando se tem muitas máquinas e falhas a serem atendidas, algumas informações podem se perder e com isso foi criado no Java um forma rápida, simples porém eficaz. Isso exige um fluxo de trabalho bem definido para a criação, atribuição, acompanhamento e fechamento das ordens de serviço.
-
 Curiosidade: Junção no Git com a versão principal "main" com a ramificação branch atualizada de "partTHI"
 
 ******- Programação Orientada a Objetos/PI-Desenvolvimento-Desktop-main (partTHI)
